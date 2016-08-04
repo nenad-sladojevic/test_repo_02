@@ -3,3 +3,6 @@ On file creation.
 
 Additional text for SECOND Commit !
 Second commit is on new_branch_dev
+
+Some more text for THIRD Commit !
+Third commit is on new_branch_dev_web
